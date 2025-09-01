@@ -1,1 +1,1 @@
-downloads: www.outrora.online
+www.outrora.online
